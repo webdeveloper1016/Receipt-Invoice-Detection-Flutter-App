@@ -22,3 +22,22 @@ So this project uses technologies like Flutter, TensorflowLite, Darknet, Yolo et
 $ flutter pub get
 $ flutter pub run
 
+```
+
+## :bulb: Demo
+
+Image
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image2.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image3.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image4.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image5.jpg" width="250"></td>
+    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image6.jpg" width="250"></td>
+  </tr>
+ </table>
