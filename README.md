@@ -29,15 +29,11 @@ $ flutter pub run
 Image
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image1.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image2.jpg" width="250"></td>
+    <td><img src="https://github.com/webdeveloper1016/Receipt-Invoice-Detection-Flutter-App/blob/main/image/Screenshot_1656600121.png" width="250"></td>
+    <td><img src="https://github.com/webdeveloper1016/Receipt-Invoice-Detection-Flutter-App/blob/main/image/Screenshot_1656600157.png" width="250"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image3.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image4.jpg" width="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image5.jpg" width="250"></td>
-    <td><img src="https://raw.githubusercontent.com/hiennguyen92/flutter_realtime_object_detection/main/images/image6.jpg" width="250"></td>
+    <td><img src="https://github.com/webdeveloper1016/Receipt-Invoice-Detection-Flutter-App/blob/main/image/Screenshot_1656600171.png" width="250"></td>
+    <td><img src="https://github.com/webdeveloper1016/Receipt-Invoice-Detection-Flutter-App/blob/main/image/Screenshot_1656600221.png" width="250"></td>
   </tr>
  </table>
