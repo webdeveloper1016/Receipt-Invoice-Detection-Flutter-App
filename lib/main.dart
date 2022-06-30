@@ -108,7 +108,7 @@ class _CameraAppState extends State<CameraApp> {
                             const SizedBox(
                               height: 12.0,
                             ),
-                            Text("Images upladed"),
+                            Text("Images uploaded"),
                           ],
                         ),
                       ],
